@@ -1,0 +1,47 @@
+[18-Feb-2022 14:02:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function et_builder_bfb_enabled() in /home/bbwebsit/b2becommercedev.com.au/shop/wp-content/plugins/supreme-modules-for-divi/includes/class-dsm-supreme-modules-for-divi.php:926
+Stack trace:
+#0 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/class-wp-hook.php(309): Dsm_Supreme_Modules_For_Divi->dsm_theme_builder_header_css_classes(Array)
+#1 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/template-canvas.php(20): body_class()
+#5 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/template-loader.php(106): include('/home/bbwebsit/...')
+#6 /home/bbwebsit/b2becommercedev.com.au/shop/wp-blog-header.php(19): require_once('/home/bbweb in /home/bbwebsit/b2becommercedev.com.au/shop/wp-content/plugins/supreme-modules-for-divi/includes/class-dsm-supreme-modules-for-divi.php on line 926
+[18-Feb-2022 14:02:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function et_builder_bfb_enabled() in /home/bbwebsit/b2becommercedev.com.au/shop/wp-content/plugins/supreme-modules-for-divi/includes/class-dsm-supreme-modules-for-divi.php:926
+Stack trace:
+#0 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/class-wp-hook.php(309): Dsm_Supreme_Modules_For_Divi->dsm_theme_builder_header_css_classes(Array)
+#1 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/template-canvas.php(20): body_class()
+#5 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/template-loader.php(106): include('/home/bbwebsit/...')
+#6 /home/bbwebsit/b2becommercedev.com.au/shop/wp-blog-header.php(19): require_once('/home/bbweb in /home/bbwebsit/b2becommercedev.com.au/shop/wp-content/plugins/supreme-modules-for-divi/includes/class-dsm-supreme-modules-for-divi.php on line 926
+[18-Feb-2022 14:03:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function et_builder_bfb_enabled() in /home/bbwebsit/b2becommercedev.com.au/shop/wp-content/plugins/supreme-modules-for-divi/includes/class-dsm-supreme-modules-for-divi.php:926
+Stack trace:
+#0 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/class-wp-hook.php(309): Dsm_Supreme_Modules_For_Divi->dsm_theme_builder_header_css_classes(Array)
+#1 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/template-canvas.php(20): body_class()
+#5 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/template-loader.php(106): include('/home/bbwebsit/...')
+#6 /home/bbwebsit/b2becommercedev.com.au/shop/wp-blog-header.php(19): require_once('/home/bbweb in /home/bbwebsit/b2becommercedev.com.au/shop/wp-content/plugins/supreme-modules-for-divi/includes/class-dsm-supreme-modules-for-divi.php on line 926
+[18-Feb-2022 14:03:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function et_builder_bfb_enabled() in /home/bbwebsit/b2becommercedev.com.au/shop/wp-content/plugins/supreme-modules-for-divi/includes/class-dsm-supreme-modules-for-divi.php:926
+Stack trace:
+#0 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/class-wp-hook.php(309): Dsm_Supreme_Modules_For_Divi->dsm_theme_builder_header_css_classes(Array)
+#1 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/template-canvas.php(20): body_class()
+#5 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/template-loader.php(106): include('/home/bbwebsit/...')
+#6 /home/bbwebsit/b2becommercedev.com.au/shop/wp-blog-header.php(19): require_once('/home/bbweb in /home/bbwebsit/b2becommercedev.com.au/shop/wp-content/plugins/supreme-modules-for-divi/includes/class-dsm-supreme-modules-for-divi.php on line 926
+[18-Feb-2022 14:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function et_builder_bfb_enabled() in /home/bbwebsit/b2becommercedev.com.au/shop/wp-content/plugins/supreme-modules-for-divi/includes/class-dsm-supreme-modules-for-divi.php:926
+Stack trace:
+#0 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/class-wp-hook.php(309): Dsm_Supreme_Modules_For_Divi->dsm_theme_builder_header_css_classes(Array)
+#1 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/template-canvas.php(20): body_class()
+#5 /home/bbwebsit/b2becommercedev.com.au/shop/wp-includes/template-loader.php(106): include('/home/bbwebsit/...')
+#6 /home/bbwebsit/b2becommercedev.com.au/shop/wp-blog-header.php(19): require_once('/home/bbweb in /home/bbwebsit/b2becommercedev.com.au/shop/wp-content/plugins/supreme-modules-for-divi/includes/class-dsm-supreme-modules-for-divi.php on line 926
+[25-Feb-2022 00:57:41 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[25-Feb-2022 14:52:50 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wplj_options` WHERE `option_name` = '_transient_wc_onboarding_product_data' made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, rest_get_server, do_action('rest_api_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Admin\API\Init->rest_api_init, Automattic\WooCommerce\Admin\API\OnboardingProfile->register_routes, Automattic\WooCommerce\Admin\API\OnboardingProfile->get_collection_params, Automattic\WooCommerce\Admin\API\OnboardingProfile::get_profile_properties, Automattic\WooCommerce\Admin\Features\Onboarding::get_allowed_product_types, Automattic\WooCommerce\Admin\Features\Onboarding::append_product_data, get_transient, delete_option
